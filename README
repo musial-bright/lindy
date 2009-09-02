@@ -1,0 +1,8 @@
+Processing Skatch 'Lindy'
+http://www.processing.org
+
+A painting I did once is converted into a matrix of lines pointing to the z axis - so towards the viewer.
+Usage:
+- Let the image follow the cursor
+- By pressing the mouse button in different sketch edges, the picture turns.
+- Zoom the image in by pressing the mouse buttoninthe sketch center. 
